@@ -1,0 +1,27 @@
+.board{
+	background-image: url("../img/maxresdefault.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	height:100vh;
+}
+
+.key{
+	padding:20px 25px;
+	background:rgba(0,0,0,.6);
+	margin:10px;
+	border:3px solid;
+	transform: scale(1);
+	transition:.1s all;
+
+}
+
+kbd{
+	background-color: transparent;
+	font-size:36px;
+}
+
+.playing{
+	border:3px solid yellow;
+	transform: scale(1.1);
+	transition:.1s all;
+}
