@@ -1,2 +1,2 @@
 # Drum Kit with Javascript
-[Demo](https://eager-snyder-2911e1.netlify.com/)
+[Demo](https://tawhidulikhan.github.io/drum-kit/)
